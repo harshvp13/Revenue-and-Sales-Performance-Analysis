@@ -36,8 +36,15 @@ For a global manufacturing company, managing sales performance across multiple r
 
 **Results and Recommendations**
 
-The 2020 SQL analysis revealed key patterns across orders, products, customers, and territories. Territory performance analysis identified which regions generate the highest order volumes, enabling targeted resource allocation. The top 10 best-selling products by order quantity were identified, providing clear direction for inventory prioritization. The top 10 customers by order count were segmented, highlighting high-value relationships worth nurturing. Daily and monthly sales trend analysis uncovered seasonality patterns and peak order periods throughout 2020. Additionally, the average time between stocking and ordering was calculated, providing visibility into supply chain efficiency and lead time management.
+The analysis was conducted on 25K total orders across a global cycling equipment manufacturer (AdventureWorks), generating $18.5M in revenue, $7.9M in profit, and a 2.1% return rate. Monthly revenue reached $1.83M (+3.31% vs prior month) with 2,146 monthly orders and 166 monthly returns.
 
+1.Product Performance: Accessories lead with 17K orders, followed by Bikes (11.3K) and Clothing (7K). The top revenue-generating product is Fender Set – Mountain ($87K), while Sport-100 Helmets show the highest return rates (up to 3.33%). Tires and Tubes are the most ordered product type, while Shorts are the most returned.
+
+2. Product-Level Drill Down: Bikes carry the highest return rate at 3.08%, driven by Touring Bikes at 3.30%. Accessories have the lowest return rate at 1.95%, making them the most reliable category.
+
+3. Customer Analysis: There are 17.4K unique customers generating $1,431 revenue per customer. The top customer, Mr. Maurice Shan, generated $12,407 in revenue across 6 orders. Top 100 customers collectively drove $615K in revenue across 1,272 orders. The Professional occupation segment leads with 7.9K orders, followed by Skilled Manual (6K) and Management (4.4K).
+
+4. Regional Performance: The United States dominates order volume globally, followed by Canada and Australia, with smaller presence across Europe (UK, France).
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/35b44d4b-c3fc-4761-9e01-51f512a37226" />
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e6069f55-2016-4704-b62d-3b4b8d18aad6" />
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c3cbe2b0-cb1f-453b-8bd0-143f3f0d037b" />
